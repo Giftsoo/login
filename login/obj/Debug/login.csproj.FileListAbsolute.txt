@@ -1,0 +1,16 @@
+C:\Users\omggi\source\repos\login\login\bin\Debug\login.exe.config
+C:\Users\omggi\source\repos\login\login\bin\Debug\login.exe
+C:\Users\omggi\source\repos\login\login\bin\Debug\login.pdb
+C:\Users\omggi\source\repos\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\omggi\source\repos\login\login\obj\Debug\login.dashboard.resources
+C:\Users\omggi\source\repos\login\login\obj\Debug\login.Form1.resources
+C:\Users\omggi\source\repos\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\omggi\source\repos\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\omggi\source\repos\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\omggi\source\repos\login\login\obj\Debug\login.exe
+C:\Users\omggi\source\repos\login\login\obj\Debug\login.pdb
+C:\Users\omggi\source\repos\login\login\bin\Debug\Database1.mdf
+C:\Users\omggi\source\repos\login\login\bin\Debug\Database1_log.ldf
+C:\Users\omggi\source\repos\login\login\bin\Debug\System.Data.Common.dll
+C:\Users\omggi\source\repos\login\login\bin\Debug\System.Data.SqlClient.dll
+C:\Users\omggi\source\repos\login\login\obj\Debug\login.csproj.CopyComplete
